@@ -13,6 +13,7 @@
             "build": "build",
             "ship": "build -p always"
         },
+    
     "devDependencies": {
         "electron": "^1.7.5",
         "electron-builder": "^19.20.1"
